@@ -12,9 +12,9 @@
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
 </div>
 
-<span>
+<div>
 I’m a full stack developer that loves everything about coding.
-</span>
+</div>
 
 ### How to contact me:
 

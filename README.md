@@ -11,10 +11,8 @@
 <img src="https://img.shields.io/badge/MongoDB-91FF49?style=for-the-badge&logo=mongodb&logoColor=5C290E&labelColor=91FF49" />
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
 </div>
-
-<div style="display: block; margin-top: 20px">>
+<br />
 I’m a full stack developer that loves everything about coding.
-</div>
 
 ### How to contact me:
 

@@ -12,4 +12,10 @@
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
 </div>
 
+
 I’m a full stack developer that loves everything about coding. I currently work as a Fullstack Software Engineer at Adireto.
+
+### How to contact me:
+
+[![Kally Discord Server](https://img.shields.io/badge/My%20Discord%20Bot%20Server-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/SphjpCFwtq)
+![My Discord](https://img.shields.io/badge/LuaN%230002-000000?style=for-the-badge&logo=discord&logoColor=white)

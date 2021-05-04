@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
 </div>
 
-<div>
+<div style="display: block; margin-top: 20px">>
 I’m a full stack developer that loves everything about coding.
 </div>
 

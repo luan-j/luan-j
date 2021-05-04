@@ -12,8 +12,9 @@
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
 </div>
 
-
-I’m a full stack developer that loves everything about coding. I currently work as a Fullstack Software Engineer at Adireto.
+<span>
+I’m a full stack developer that loves everything about coding.
+</span>
 
 ### How to contact me:
 

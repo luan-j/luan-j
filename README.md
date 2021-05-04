@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/luan-j/luan-j/blob/main/image/illustration.png?raw=true" width="250"/>
+<img align="right" src="https://github.com/luan-j/luan-j/blob/main/image/illustration.png?raw=true" width="300"/>
 
 ### Hello, I'm Luan 👋
 

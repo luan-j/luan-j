@@ -16,5 +16,5 @@ I’m a full stack developer that loves everything about coding.
 
 ### How to contact me:
 
-[![Kally Discord Server](https://img.shields.io/badge/My%20Discord%20Bot%20Server-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/SphjpCFwtq)
-![My Discord](https://img.shields.io/badge/LuaN%230002-000000?style=for-the-badge&logo=discord&logoColor=white)
+[![Kally Discord Server](https://img.shields.io/badge/My%20Discord%20Server-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/qMvmscG2Mq)
+![My Discord](https://img.shields.io/badge/LuaN%239126-000000?style=for-the-badge&logo=discord&logoColor=white)

@@ -17,6 +17,3 @@ I’m a full stack developer that loves everything about coding.
 ### How to contact me:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:comercial.luanfernandes@gmail.com)
-
-[![Kally Discord Server](https://img.shields.io/badge/My%20Discord%20Server-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/qMvmscG2Mq)
-![My Discord](https://img.shields.io/badge/LuaN%239126-000000?style=for-the-badge&logo=discord&logoColor=white)

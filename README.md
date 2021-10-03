@@ -2,7 +2,7 @@
 
 ### Hello, I'm Luan 👋
 
-###### Fullstack Software Engineer at [@Adireto](https://adireto.com/).
+###### Fullstack Software Engineer at [@Stefanini](https://stefanini.com/pt-br/).
 
 <div>
 <img src="https://img.shields.io/badge/Ts-3276E6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3276E6" />

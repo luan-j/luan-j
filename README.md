@@ -2,7 +2,7 @@
 
 ### Hello, I'm Luan 👋
 
-###### Backend developer at [@Stefanini](https://stefanini.com/pt-br/).
+###### Backend developer at [@Stefanini](https://stefanini.com/pt-br/) - [@Shell Box](https://www.shell.com.br/motoristas/promocoes-e-campanhas/app-shell-box.html).
 
 <div>
 <img src="https://img.shields.io/badge/Ts-3276E6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3276E6" />

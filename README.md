@@ -13,7 +13,3 @@
 </div>
 <br />
 I’m a full stack developer that loves everything about coding.
-
-### How to contact me:
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:comercial.luanfernandes@gmail.com)
